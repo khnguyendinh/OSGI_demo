@@ -1,0 +1,7 @@
+Clean the Eclipse caches
+1. Open the eclipse.ini file located in the Eclipse installation directory. For example, in C:\eclipses\eclipse-SDK-4.3.2-win32-x86_64.
+2. Add -clean to the end of the first line in the file.
+3. Save the file.
+4. Restart Eclipse.
+5. Delete -clean from the file.
+6. Save the file.
